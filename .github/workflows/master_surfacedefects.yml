@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'surfacedefects'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DCABB760A99541B9AFF2E5E55693DAF7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F3834F13FF184169B9B46E0004BE489F }}
           package: .
