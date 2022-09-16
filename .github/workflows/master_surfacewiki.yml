@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'surfacewiki'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DCB136F5B24B4F038B5222CBB9F1C310 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E9C985029A654F51A6212FB7DD9ED8F4 }}
           package: .
